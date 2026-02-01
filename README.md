@@ -46,6 +46,3 @@ A structured dataset containing book details from the first page of the website.
 - LinkedIn: https://www.linkedin.com/in/anshs-dev
 
 ---
-
-## ⚠️ Disclaimer
-This project is for educational purposes only and scrapes data from a demo website designed for learning web scraping.
